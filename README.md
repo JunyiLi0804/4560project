@@ -1,6 +1,6 @@
-# 4560project
+# 4560 Project
 UI Components Classification for UI High-level Semantics
-
+uid:u7094663
 ## Train
 1. Requirements:
 + Python >= 3.6
